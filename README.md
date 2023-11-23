@@ -1,10 +1,9 @@
 # TaskMate-Project
-
-Title:
-Descriotion:
+Title: 
+Description:
 The Requirements:
-My App Features:
-How to set-up TaskMate:
-How to use TaskMate App:
-Contributors: 
-Any queries ? contact me on 444807648@kku.edu.sa
+TaskMate Features:
+TaskMate set-up: 
+TaskMate usage guideline:
+Contributors:
+Have a query ? Contact me on 444807648@kku.edu.sa
